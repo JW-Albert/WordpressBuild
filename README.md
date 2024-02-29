@@ -5,5 +5,5 @@ OS: Debian/Ubuntu
 所有的內容或同步在我的個人網站([王老師生命專線](https://www.jw-albert.tw))上  
 
 # Wordpress 網站下載
--官方中文網站: [https://tw.wordpress.org/](https://tw.wordpress.org/)  
--官方最新版 Wordpress 下載點: [https://tw.wordpress.org/latest-zh_TW.zip](https://tw.wordpress.org/latest-zh_TW.zip)  
+- 官方中文網站: [https://tw.wordpress.org/](https://tw.wordpress.org/)  
+- 官方最新版 Wordpress 下載點: [https://tw.wordpress.org/latest-zh_TW.zip](https://tw.wordpress.org/latest-zh_TW.zip)  
